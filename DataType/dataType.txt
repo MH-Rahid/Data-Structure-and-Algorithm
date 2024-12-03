@@ -1,0 +1,81 @@
+//Data Types in Data Structures and Algorithms:
+
+A data type defines the kind of data a variable can hold, 
+how it is stored in memory, and the operations that can be 
+performed on it. In the context of data structures and 
+algorithms, data types are fundamental because they determine 
+how data is structured, accessed, and manipulated to solve 
+problems efficiently.
+
+
+// Types of datatype:
+
+1. primitive datatype - These are the fundamental building blocks of 
+data in programming. They are predefined by the language.
+
+a. integer : used for numeric data without a decimal point.
+ex - int x = 5;
+b. floating-point : for numeric data with decimal point.
+ex - float x = 3.4; double y = 5.4;
+c. character : represents a single character.
+ex - char l = 'm';
+d. boolean : represents true or false values.
+ex - bool isEven = true;
+
+2.derived datatype - these are built from primitive data types and 
+include more complex structure.
+
+a. array : a collection of elements of the same type, stored in
+contiguous memory locations.
+ex - int arr[5] = {5,4,3,2,6};
+b. Pointer: holds the memory address of another variable.
+ex - int *p = &x; here x must be int type.
+c. structure : a collection of variables of different types.
+ex - struct str{ int x; int *y; float z };
+
+3. Abstract data type:
+a. list : an ordered collection of elements.
+b. stack : follows last in first out(lifo) principle.u
+c. queue : follows first in first out (fifo) principle.
+d. de-que : a double ended queue.
+e. set : A collection of unique elements.
+f. map(dictionary) : a collection of key value pairs.
+
+4. user-defined datatype: Programmers can create these data types 
+to represent specific data more effectively.
+
+5. 
+
+
+
+
+
+
+// Definition of Data Structure
+A data structure is a specialized format for organizing, storing, 
+and managing data in a computer to enable efficient access and 
+modification. It defines the way data is logically arranged and how 
+it can be manipulated to solve specific problems or perform 
+computations.
+
+
+// advantage of data structure:
+1. Efficiency - proper choice of data structure make program
+efficient in terms of space and time.
+2. Reusability - one implementation can be used multiple client 
+programs.
+3. Abstraction - data structure is specified by on ADT which 
+provides a level of abstraction. the client program doesn't have to
+worry about the implementation details.
+
+
+// Why Use Data Structures?
+Efficient problem-solving in programming often depends on the 
+organization of data. Data structures:
+
+1. Enable quick data access and manipulation.
+2. Help optimize the use of memory and processing power.
+3. Provide specific operations suited for particular tasks 
+(e.g., searching, sorting, or traversing data).
+
+//
