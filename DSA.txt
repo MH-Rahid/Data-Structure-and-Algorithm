@@ -1,0 +1,57 @@
+
+// Definition of Data Structure
+A data structure is a specialized format for organizing, storing, 
+and managing data in a computer to enable efficient access and 
+modification. It defines the way data is logically arranged and how 
+it can be manipulated to solve specific problems or perform 
+computations.
+
+
+// advantage of data structure:
+1. Efficiency - proper choice of data structure make program
+efficient in terms of space and time.
+2. Reusability - one implementation can be used multiple client 
+programs.
+3. Abstraction - data structure is specified by on ADT which 
+provides a level of abstraction. the client program doesn't have to
+worry about the implementation details.
+
+
+// Why Use Data Structures?
+Efficient problem-solving in programming often depends on the 
+organization of data. Data structures:
+
+1. Enable quick data access and manipulation.
+2. Help optimize the use of memory and processing power.
+3. Provide specific operations suited for particular tasks 
+(e.g., searching, sorting, or traversing data).
+
+
+// classification of DSA: 
+//. linear data structure - linear data structure organize data in 
+a sequential manner, where each element is connected to the next 
+element.
+/.static data structure - in static data structures the memory is 
+allocated at compile time. therefor, maximum size is fixed.
+/.dynamic data structure - in dynamic data structures the memory is 
+allocated at run time. therefore, maximum size is flexible.
+
+/. non-linear data structure - non-linear data structure organize 
+data hierarchically or relationally, allowing multiple connections 
+between element.
+
+
+
+// different between linear and non-linear data structure.
+1.arrangement: 
+linear - sequential. 
+non-linear - hierarchical or relational 
+2.traversal: 
+linear - Straightforward (one level). 
+non-linear - Multiple paths (levels/relations) 
+3.Examples:  
+linear - Array, Linked List, Stack, Queue.
+non-linear - Tree, Graph.
+4.Use Case:
+linear - Simple storage and access.
+non - linear - Complex relationships;
